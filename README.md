@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning about cybersecurity, advanced Kotlin techniques, AI integration in documentation, and enhancing Android POS terminal functionalities.
 - 💞️ I’m looking to collaborate on projects related to Android payment terminals, API development, and innovative solutions in the payment industry.
 - 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/jailtonscsantana/)
-- ⚡ Fun fact: I’m passionate about music woodworking and cooking!
+- ⚡ Fun fact: I’m passionate about music, woodworking and cooking!
